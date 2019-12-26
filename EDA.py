@@ -1,4 +1,4 @@
-# To predict the propensity to churn for each customer
+# EDA for Banking data to predict the propensity to churn in customers
 
 
 # Importing Libraries
