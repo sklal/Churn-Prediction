@@ -1,3 +1,3 @@
 # Churning
  
-The project seeks to find the factors responsible for churn rate in banking customers
+The project seeks to predict the propensity of banking customers to churn andfind the factors responsible for it.
